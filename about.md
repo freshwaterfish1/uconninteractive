@@ -5,6 +5,7 @@ permalink: /about/
 ---
 ##Intro
 This independent study plans to create an Oculus Rift experience by recreating memorable locations from the University of Connecticut in virtual reality. This will be accomplished in three main parts: the game, the blog, and the feedback. Splitting up this project into three concurrent parts allows for faster feedback, quicker iterations of the game, and better recording of the creation process.
+
 This project will start during the 2015 Winter semester with prototyping and generalized Oculus testings, and ramp up into a full-time project at the start of the Spring 2016 semester. By the end of the semester, the interactive experience will be completed and feedback will be recorded, with all the gained knowledge reported in the ongoing blog.
 
 ##Components
