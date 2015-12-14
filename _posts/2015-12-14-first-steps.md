@@ -6,6 +6,7 @@ published: true
 
 
 
+
 # Why Unreal 4?
 First off, it looks great and for this project the better I can get it to look, the bigger impact it will have on players. Since this game is meant to demo UConn just as much as the Oculus, I want to have the “wow” factor and form what I have seen this engine delivers on that. Second, I have made a VR game in Unreal 4 before and while it was right when the DK2 came out, it still ended up being a pretty solid game. However I have since seen all the VR / HMD updates Unreal 4 has implemented and compared to other major game engine they seem to be the most up to date. Finally, I have experience with the engine. Just the fact I can navigate and find my way around 2/3rds of the time is a huge boon, and will cut down on the learning curve a lot leaving me more time to develop.
 Much of this project will be exploring the beauty of the engine, rather than code or intense game mechanics. While I do plan to have small interactions in each scene, this isn’t the main goal of the project. I hope that can optimize a few scenes and get as close to photo realistic as possible in the Oculus. Once I’m happy with the performance and the immersion I will start to work on game mechanics. For now I feel much of the game mechanics will come to me as I experiment in the rift as see what “feels” cool – since much of what works in traditional media translates very differently once in virtual reality.
@@ -17,6 +18,7 @@ The downsides to the software is that it’s _very_ taxing on a computer, and cr
 # Taking the pictures
 
 I took 164 pictures with a Canon EOS 5D Mark III with the following settings:
+
 ```
 F-stop | f/5.6
 Exposure |  1/160 sec.
