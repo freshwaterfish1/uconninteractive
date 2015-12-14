@@ -17,10 +17,12 @@ The downsides to the software is that it’s _very_ taxing on a computer, and cr
 # Taking the pictures
 
 I took 164 pictures with a Canon EOS 5D Mark III with the following settings:
-
-F-stop | Exposure | ISO |Focal Length
---- | --- | --- | --- 
-f/5.6 | 1/160 sec. | ISO-100 | 21 mm
+```
+F-stop | f/5.6
+Exposure |  1/160 sec.
+ISO | ISO-100
+Focal Length | 21 mm
+```
 
 ![Me taking pictures]({{site.baseurl}}/images/Screenshots/TakingFootage.png)
 I ended up taking a few more pictures than I think where needed, plus I didn’t have the right lens for the camera at the time. I was using a bit of a wide angle lens which made taking the pictures easier, but I feel challenged the software, and led to the long load times. In the future I might go with a tripod setup, and definitely a different lens.
