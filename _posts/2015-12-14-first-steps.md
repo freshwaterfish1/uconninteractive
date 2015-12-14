@@ -29,7 +29,7 @@ Rendering in Agisoft Photoscan is split into 4 processes, the point cloud, the d
 ![ Jonathan point cloud in Agisoft]({{ site.baseurl }}/images/Screenshots/pointcloud.PNG " Jonathan point cloud in Agisoft ")
 For this, the software builds a rough could of points for you to get a feel of what’s going on in the scene. After this is done, (took about 3 hours) you can limit how much will be rendered on the next steps. The idea here is to “but away” as much as possible to speed up the process for the longer renders.
 ## Dense Point Cloud
-![ Jonathan dense point cloud in Agisoft]({{ site.baseurl }}/images/ /Screenshots/densepointcloud.PNG " Jonathan dense point cloud in Agisoft ")
+![ Jonathan dense point cloud in Agisoft]({{ site.baseurl }}/images/Screenshots/densepointcloud.PNG " Jonathan dense point cloud in Agisoft ")
 After cutting out anything that isn’t near Jonathan, I rendered the dense point cloud.  Once this was done (another 3 hours) I finally got to see just how impressive this software was. Without the model, or the texture, it looks amazing. I mean form pictures to that in less than 5 hours is still mind blowing to me – even a few days in.
 ## Model
 ![ Jonathan model in Agisoft]({{ site.baseurl }}/images/Screenshots/model.PNG " Jonathan model in Agisoft ")
