@@ -15,15 +15,14 @@ Much of this project will be exploring the beauty of the engine, rather than cod
 Agisoft PhotoScan is software that creates models from many photos taken of a specific object. It then textures those models with the pictures, this process is called [Photogrammetry]( https://en.wikipedia.org/wiki/Photogrammetry). Basically, it’s magical. Instead of having to model everything, especially complex things such as the Jonathan the Husky statue, or various other structures around campus that would be time consuming to model.
 The downsides to the software is that it’s _very_ taxing on a computer, and creates _many_ unnecessary polygons which doesn’t make it idea for game development. However some it seems that it can be cleaned up in ZBursh according to [this]( https://www.unrealengine.com/blog/creating-assets-for-open-world-demo) blog post by Harrison Moore.
 # Taking the pictures
-![ Me taking photos of Jonathan]({{ site.baseurl }}/images/Screenshots/TakingFootage.png" Me taking photos of Jonathan ")
+
 I took 164 pictures with a Canon EOS 5D Mark III with the following settings:
+
 F-stop | Exposure | ISO |Focal Length
 --- | --- | --- | --- 
 f/5.6 | 1/160 sec. | ISO-100 | 21 mm
+
 ![Me taking pictures]({{site.baseurl}}/images/Screenshots/TakingFootage.png)
-
-![ Folder of photos I took of Jonathan]({{ site.baseurl }}/images/Screenshots/TakingFootage.png" Folder of photos I took of Jonathan ")
-
 I ended up taking a few more pictures than I think where needed, plus I didn’t have the right lens for the camera at the time. I was using a bit of a wide angle lens which made taking the pictures easier, but I feel challenged the software, and led to the long load times. In the future I might go with a tripod setup, and definitely a different lens.
 
 # Rendering Jonathan
