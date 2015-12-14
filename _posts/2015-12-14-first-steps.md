@@ -20,7 +20,7 @@ I took 164 pictures with a Canon EOS 5D Mark III with the following settings:
 F-stop | Exposure | ISO |Focal Length
 --- | --- | --- | --- 
 f/5.6 | 1/160 sec. | ISO-100 | 21 mm
-![ Folder of photos I took of Jonathan]({{ site.baseurl }}/images/Screenshots/photostaken.PNG " Folder of photos I took of Jonathan ")
+![ Folder of photos I took of Jonathan]({{ site.baseurl }}/images/Screenshots/TakingFootage.png" Folder of photos I took of Jonathan ")
 I ended up taking a few more pictures than I think where needed, plus I didn’t have the right lens for the camera at the time. I was using a bit of a wide angle lens which made taking the pictures easier, but I feel challenged the software, and led to the long load times. In the future I might go with a tripod setup, and definitely a different lens.
 
 # Rendering Jonathan
